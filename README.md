@@ -1,6 +1,6 @@
 # Waite Source Documents
 
-Primary source material for A.E. Waite's cartomancy and Tarot methods. All documents are in the public domain. Provided as a free research resource by [Vizcroft Press](https://vizcroft.com).
+Primary source material for A.E. Waite's cartomancy and Tarot methods. All documents are in the public domain. Provided as a free research resource by [Vizcroft Press](https://spiritwaveslab.com).
 
 ---
 
@@ -50,4 +50,4 @@ The full 78-card deck, reworked and restored at 600 dpi. Images are organised by
 
 These documents are provided free of charge by Vizcroft Press as part of an ongoing project to reconstruct Waite's original Tarot method. The method scattered across these three publications is being assembled into a single working system in *Cartomancy Restored: The Original Methods*, forthcoming from Vizcroft Press.
 
-Sign up at [vizcroft.com](https://vizcroft.com) to be notified when the book is available.
+Sign up at [spiritwaveslab.com](https://spiritwaveslab.com) to be notified when the book is available.
