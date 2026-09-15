@@ -119,6 +119,15 @@ John Michael Greer's modern treatment of the Western geomancy tradition. Covers 
 
 ---
 
+## Fortune-Telling Manuscripts
+
+### The Extract or Tables of Rotalo — Wellcome MS.957 (late 18th century)
+A manuscript of lottery and fortune-telling tables, with five pen-drawn fortune-telling wheels, a note of "Numbers calculated by Count Cagliostro for the Lottery 1776 in London", and a 1794 watermark. The Wellcome Collection publishes it as seventy separate images and no assembled document, so this is those images compiled into a single PDF that can be read as a book. The images are the Wellcome's, released under the Creative Commons Public Domain Mark 1.0; the compilation is ours.
+
+- [wellcome_ms957_compiled.pdf](wellcome_ms957_compiled.pdf) — 72 pages, 15.8 MB. Higher-resolution files on request.
+
+---
+
 ## About This Resource
 These documents are provided free of charge by Vizcroft Press as part of an ongoing project to research and document the history of divination. The geomancy collection supports a forthcoming work tracing the Arabic origins of geomancy and its transmission into the Western and Persian traditions.
 
